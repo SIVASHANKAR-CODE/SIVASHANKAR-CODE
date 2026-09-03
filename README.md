@@ -2,24 +2,24 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDAB9,50:FFE4C4,100:F5C6AA&height=180&section=header&text=SIVASHANKAR%20S&fontSize=48&fontColor=5C4033&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:9370DB&height=180&section=header&text=SIVASHANKAR%20S&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C47A5A&center=true&vCenter=true&width=650&lines=Network+Basics;Cybersecurity+Enthusiast;Future+Cloud+Security+Engineer;Building+Secure+and+Practical+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=650&lines=Network+Basics;Cybersecurity+Enthusiast;Future+Cloud+Security+Engineer;Building+Secure+and+Practical+Solutions)](https://git.io/typing-svg)
 
-![B.Tech](https://img.shields.io/badge/B.Tech-CSE%20%7C%20Cybersecurity-C47A5A?style=flat-square)
-![2025-2029](https://img.shields.io/badge/2025--2029-D99A7A?style=flat-square)
-![DSU](https://img.shields.io/badge/DSU-Dhanalakshmi%20Srinivasan%20University-BE9B7B?style=flat-square)
+![B.Tech](https://img.shields.io/badge/B.Tech-CSE%20%7C%20Cybersecurity-6A0DAD?style=flat-square)
+![2025-2029](https://img.shields.io/badge/2025--2029-8A2BE2?style=flat-square)
+![DSU](https://img.shields.io/badge/DSU-Dhanalakshmi%20Srinivasan%20University-9370DB?style=flat-square)
 
-![Location](https://img.shields.io/badge/📍%20Tamil%20Nadu%2C%20India-E8B4A0?style=flat-square)
+![Location](https://img.shields.io/badge/📍%20Tamil%20Nadu%2C%20India-6A0DAD?style=flat-square)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-C47A5A?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SIVASHANKAR-CODE)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-D99A7A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/EMAIL-BE9B7B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivashankar2184@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-8B6F5C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SIVASHANKAR-CODE)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SIVASHANKAR-CODE)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/EMAIL-9370DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivashankar2184@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SIVASHANKAR-CODE)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SIVASHANKAR-CODE&style=flat-square&color=C47A5A)
-![Followers](https://img.shields.io/github/followers/SIVASHANKAR-CODE?style=flat-square&color=D99A7A)
-![Stars](https://img.shields.io/github/stars/SIVASHANKAR-CODE?style=flat-square&color=BE9B7B)
+![Profile Views](https://komarev.com/ghpvc/?username=SIVASHANKAR-CODE&style=flat-square&color=6A0DAD)
+![Followers](https://img.shields.io/github/followers/SIVASHANKAR-CODE?style=flat-square&color=8A2BE2)
+![Stars](https://img.shields.io/github/stars/SIVASHANKAR-CODE?style=flat-square&color=9370DB)
 
 </div>
 
@@ -203,109 +203,12 @@ Developing practical knowledge across cybersecurity, networking, Linux, programm
 
 ### AWS
 
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Learning-C47A5A?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Learning-6A0DAD?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Oracle
 
-![Oracle](https://img.shields.io/badge/Oracle-Technical%20Learning-D99A7A?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Technical%20Learning-8A2BE2?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### NPTEL
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Learning-BE9B7B?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-C47A5A?style=for-the-badge&logo=cisco&logoColor=white)
-
-### Other Certifications
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-D99A7A?style=for-the-badge)
-
----
-
-## CODING PROFILES
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-
-</div>
-
----
-
-## GITHUB ANALYTICS
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIVASHANKAR-CODE&show_icons=true&theme=default&hide_border=true&bg_color=FFF7F2&title_color=C47A5A&icon_color=D99A7A&text_color=5C4033)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SIVASHANKAR-CODE&theme=default&hide_border=true&background=FFF7F2&ring=C47A5A&fire=D99A7A&currStreakLabel=C47A5A)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIVASHANKAR-CODE&layout=compact&theme=default&hide_border=true&bg_color=FFF7F2&title_color=C47A5A&text_color=5C4033)
-
-</div>
-
----
-
-## GITHUB TROPHIES
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SIVASHANKAR-CODE&theme=flat&no-frame=true&no-bg=true&margin-w=5&title_color=C47A5A)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVASHANKAR-CODE&bg_color=FFF7F2&color=C47A5A&line=D99A7A&point=BE9B7B&area=true&hide_border=true)](https://github.com/SIVASHANKAR-CODE)
-
-</div>
-
----
-
-## CONTRIBUTION SNAKE
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## CURRENT FOCUS
-
-```yaml
-Learning:
-  - Networking
-  - Linux
-  - Python
-  - Cybersecurity
-  - Cloud Security
-  - AWS
-
-Building:
-  - Cybersecurity Projects
-  - Security Tools
-  - Practical Software Solutions
-
-Exploring:
-  - OSINT
-  - Digital Forensics
-  - AI/ML
-  - Cloud Security
-  - CTFs
-
-Open To:
-  - Collaborations
-  - Open Source
-  - Hackathons
-  - Cybersecurity Projects
-  - Learning Opportunities
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified%
