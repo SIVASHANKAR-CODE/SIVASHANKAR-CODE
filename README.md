@@ -1,424 +1,311 @@
+# SIVASHANKAR S
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=180&section=header&text=SIVASHANKAR%20S&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDAB9,50:FFE4C4,100:F5C6AA&height=180&section=header&text=SIVASHANKAR%20S&fontSize=48&fontColor=5C4033&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=B.Tech+CSE+(Cybersecurity);Cybersecurity+%7C+Python+%7C+C%2FC%2B%2B;AI+%26+Prompt+Engineering;Software+Engineering+Enthusiast;Security-Focused+Problem+Solver" alt="Typing SVG"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C47A5A&center=true&vCenter=true&width=650&lines=Network+Basics;Cybersecurity+Enthusiast;Future+Cloud+Security+Engineer;Building+Secure+and+Practical+Solutions)](https://git.io/typing-svg)
 
-<br/>
+![B.Tech](https://img.shields.io/badge/B.Tech-CSE%20%7C%20Cybersecurity-C47A5A?style=flat-square)
+![2025-2029](https://img.shields.io/badge/2025--2029-D99A7A?style=flat-square)
+![DSU](https://img.shields.io/badge/DSU-Dhanalakshmi%20Srinivasan%20University-BE9B7B?style=flat-square)
 
-<img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20Cybersecurity-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Second%20Year-2025--2029-4C1D95?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Student-Cybersecurity-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+![Location](https://img.shields.io/badge/📍%20Tamil%20Nadu%2C%20India-E8B4A0?style=flat-square)
 
-<br/><br/>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-C47A5A?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SIVASHANKAR-CODE)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-D99A7A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/EMAIL-BE9B7B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivashankar2184@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-8B6F5C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SIVASHANKAR-CODE)
 
-<a href="https://www.linkedin.com/in/sivashankar-s-582744393/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sivashankar021311@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SIVASHANKAR-CODEt&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"/>
+![Profile Views](https://komarev.com/ghpvc/?username=SIVASHANKAR-CODE&style=flat-square&color=C47A5A)
+![Followers](https://img.shields.io/github/followers/SIVASHANKAR-CODE?style=flat-square&color=D99A7A)
+![Stars](https://img.shields.io/github/stars/SIVASHANKAR-CODE?style=flat-square&color=BE9B7B)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ABOUT
 
-I am a **B.Tech Computer Science and Engineering (Cybersecurity) student** with a strong interest in technology, software engineering, cybersecurity, artificial intelligence, communication, leadership, and student community engagement.
+### Engineering Focus
 
-My current technical foundation includes **Python, C/C++, Git & GitHub, networking fundamentals, cybersecurity concepts, and prompt engineering**.
+I am a motivated **B.Tech Computer Science and Engineering (Cybersecurity) student** with a strong interest in technology, communication, leadership, and student community engagement.
 
-I enjoy building practical projects around security and problem solving, including secure authentication, phishing detection, vulnerability assessment, password analysis, and game development.
+My current focus is on developing practical skills in **software development, cybersecurity, networking, and programming**, while building secure and practical technology solutions.
 
-My goal is to continuously strengthen my engineering fundamentals while building useful, secure, and practical software.
+I enjoy learning by building projects, solving cybersecurity challenges, exploring new technologies, and understanding how systems work from the ground up.
 
 ### Open To
 
-- 💻 Software Engineering Opportunities
 - 🔐 Cybersecurity Projects
-- 🤖 AI / Prompt Engineering Projects
-- 🚀 Hackathons & Technical Events
-- 🎓 Campus Ambassador Opportunities
-- 🤝 Student Community & Open Source Collaboration
+- ☁️ Cloud Security Opportunities
+- 💻 Software Engineering Projects
+- 🤝 Open Source Collaboration
+- 🧠 AI/ML Projects
+- 🏆 Hackathons & CTFs
+- 📚 Continuous Learning
 
 ---
 
-## 🛠️ Tech Stack
+## TECH STACK
 
 ### Languages
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp" />
-
-</p>
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 ### Frontend
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-</p>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
 
 ### Backend & Databases
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,mysql" />
-
-</p>
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Python](https://skillicons.dev/icons?i=python)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ### Cloud, DevOps & Tooling
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
-</p>
-
-### Cybersecurity
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Networking%20Basics-6D28D9?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-4C1D95?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ethical%20Hacking-7C3AED?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Network%20Security-312E81?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-
-</p>
+![AWS](https://skillicons.dev/icons?i=aws)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-## 🤖 AI / ML Expertise
+## AI / ML EXPERTISE
 
 | Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Prompt Engineering | Advanced | Advanced Prompt Engineering with ChatGPT |
-| AI-Assisted Problem Solving | Working | Using structured prompting for technical research and problem solving |
-| Phishing Detection | Project | Security-focused phishing email detection project |
-| Cybersecurity Automation | Project | Exploring automation-oriented security tools |
-| AI Exploration | Learning | Continuously exploring practical AI applications |
+|---|---|---|
+| Machine Learning | Intermediate | Understanding ML concepts and practical model development |
+| Python for AI/ML | Intermediate | Data processing, automation and ML experimentation |
+| AI Applications | Intermediate | Exploring AI-powered cybersecurity and software solutions |
+| Cybersecurity AI | Beginner | Exploring intelligent security analysis and threat detection |
+| Data Analysis | Beginner | Learning data preprocessing, analysis and visualization |
 
 ---
 
-## 🚀 Featured Projects
+## FEATURED PROJECTS
 
 <details>
-<summary><b>🔐 Secure Login System</b></summary>
+<summary><b>🔐 Password Strength Analyzer</b></summary>
 
-A security-focused authentication project designed to explore secure login workflows and password handling concepts.
+A Python-based security utility designed to analyze password strength and provide security-oriented feedback.
 
-| Category | Details |
-|:---|:---|
-| **Stack** | Python / C / C++ |
-| **Scale** | Academic / Student Project |
-| **Performance** | Authentication-focused workflow |
-| **Security** | Secure login and authentication concepts |
-| **Impact** | Practical understanding of authentication systems |
-| **Repository** | [GitHub Profile](https://github.com/) |
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>📧 Phishing Email Detection</b></summary>
-
-A cybersecurity project focused on identifying suspicious phishing emails and understanding common email-based security threats.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | Python / Cybersecurity |
-| **Scale** | Academic / Student Project |
-| **Performance** | Detection-oriented workflow |
-| **Security** | Phishing and email security |
-| **Impact** | Practical exploration of phishing detection |
-| **Repository** | [GitHub Profile](https://github.com/) |
+| Attribute | Details |
+|---|---|
+| Stack | Python |
+| Scale | Security Utility |
+| Performance | Lightweight and Fast |
+| Security | Password Strength Analysis |
+| Impact | Promotes stronger password practices |
+| Repository | [View Repository](https://github.com/SIVASHANKAR-CODE/password-strength-analyzer) |
 
 </details>
-
-<br/>
 
 <details>
 <summary><b>🛡️ Vulnerability Scanner</b></summary>
 
-A cybersecurity-oriented project focused on understanding vulnerability assessment and identifying potential weaknesses in systems.
+A Python-based vulnerability scanning project designed to identify potential security weaknesses in systems and networks.
 
-| Category | Details |
-|:---|:---|
-| **Stack** | Python / Networking |
-| **Scale** | Academic / Student Project |
-| **Performance** | Vulnerability assessment workflow |
-| **Security** | Security weakness identification |
-| **Impact** | Builds practical vulnerability-assessment knowledge |
-| **Repository** | [GitHub Profile](https://github.com/) |
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🔑 Password Strength Analyzer</b></summary>
-
-A security project focused on evaluating password strength and understanding the characteristics of stronger authentication credentials.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | Python / Cybersecurity |
-| **Scale** | Academic / Student Project |
-| **Performance** | Password evaluation workflow |
-| **Security** | Password-strength analysis |
-| **Impact** | Reinforces practical password-security concepts |
-| **Repository** | [GitHub Profile](https://github.com/) |
+| Attribute | Details |
+|---|---|
+| Stack | Python |
+| Scale | Cybersecurity Tool |
+| Performance | Lightweight Scanning |
+| Security | Vulnerability Identification |
+| Impact | Helps understand security weaknesses |
+| Repository | [View Repository](https://github.com/SIVASHANKAR-CODE/vulnerability_scanner) |
 
 </details>
 
-<br/>
+<details>
+<summary><b>📧 Phishing Email Detection</b></summary>
+
+A machine-learning-based phishing email detection system that analyzes email content to identify potential phishing threats.
+
+| Attribute | Details |
+|---|---|
+| Stack | Python, Machine Learning |
+| Scale | AI Security Project |
+| Performance | Automated Analysis |
+| Security | Phishing Detection |
+| Impact | Helps identify suspicious email content |
+| Repository | [View Repository](https://github.com/SIVASHANKAR-CODE/phishing_email_detection) |
+
+</details>
 
 <details>
-<summary><b>🐍 Snake Game</b></summary>
+<summary><b>🔑 Secure Login System</b></summary>
 
-A classic Snake Game project focused on implementing game logic, movement, collision handling, scoring, and interactive programming fundamentals.
+A secure login system built with authentication mechanisms and encrypted password storage to improve application security.
 
-| Category | Details |
-|:---|:---|
-| **Stack** | Programming / Game Logic |
-| **Scale** | Personal / Student Project |
-| **Performance** | Real-time movement and collision logic |
-| **Security** | Clean input and application logic |
-| **Impact** | Strengthens programming fundamentals and problem solving |
-| **Repository** | [GitHub Profile](https://github.com/) |
+| Attribute | Details |
+|---|---|
+| Stack | Python |
+| Scale | Authentication System |
+| Performance | Lightweight |
+| Security | Authentication & Password Protection |
+| Impact | Demonstrates secure authentication concepts |
+| Repository | [View Repository](https://github.com/SIVASHANKAR-CODE/secure_login_system) |
 
 </details>
 
 ---
 
-## 💼 Experience
+## EXPERIENCE
 
-### Campus Ambassador / Student Community Engagement
+### Cybersecurity Student
 
-**Student Community & Technical Events** · **2026 — Present**
+**Dhanalakshmi Srinivasan University**
 
-Interested in contributing to student communities through communication, teamwork, technical events, presentations, and leadership.
+**2025 – Present**
+
+Developing practical knowledge across cybersecurity, networking, Linux, programming, and secure software development.
 
 **Scope of Work**
 
-- Participate in technical and student-focused events
-- Support community engagement initiatives
-- Communicate technical information effectively
-- Collaborate with students and event teams
-- Participate in hackathons and technical programs
-- Contribute through teamwork and leadership
+- Learning cybersecurity fundamentals and security concepts
+- Practicing networking and Linux fundamentals
+- Developing Python-based security projects
+- Participating in CTFs and cybersecurity workshops
+- Exploring OSINT and digital investigation concepts
+- Building practical software and security solutions
 
-**Skills**
-
-`Communication` `Teamwork` `Leadership` `Presentation` `Networking` `Community Engagement`
+**Skills:** `Cybersecurity` `Networking` `Linux` `Python` `OSINT` `CTF` `Git` `GitHub`
 
 ---
 
-## 🏆 Achievements
+## ACHIEVEMENTS
 
 <div align="center">
 
-| 🏅 Recognition | Details |
-|:---|:---|
-| 🥈 **2nd Prize** | Secured 2nd Prize in a Technical Event — 2026 |
-| ⭐ **Top Prompt Creator** | Google Student Ambassador Program |
-| 💻 **National Level Hackathon** | Participated in NEXUS'26 |
-| 🚀 **Startup Pitch** | Participated in IdeaVenture 2026 |
+| Recognition | Details |
+|---|---|
+| Cybersecurity Workshops | Participated in practical cybersecurity learning sessions |
+| CTF Learning | Exploring Capture The Flag challenges and practical security concepts |
+| Project Development | Built multiple Python-based cybersecurity projects |
+| Technical Learning | Continuously developing skills in networking, Linux and cybersecurity |
 
 </div>
 
 ---
 
-## 📜 Certifications
+## CERTIFICATIONS
 
-### Cisco Networking Academy
+### AWS
 
-<p align="center">
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Learning-C47A5A?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-6D28D9?style=for-the-badge&logo=cisco&logoColor=white"/>
+### Oracle
 
-</p>
+![Oracle](https://img.shields.io/badge/Oracle-Technical%20Learning-D99A7A?style=for-the-badge&logo=oracle&logoColor=white)
 
-### upGrad
+### NPTEL
 
-<p align="center">
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Learning-BE9B7B?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/upGrad-Advanced%20Prompt%20Engineering%20with%20ChatGPT-4C1D95?style=for-the-badge&logoColor=white"/>
+### Cisco
 
-</p>
+![Cisco](https://img.shields.io/badge/Cisco-Networking-C47A5A?style=for-the-badge&logo=cisco&logoColor=white)
 
-### Skill India Digital Hub
+### Other Certifications
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Skill%20India-Cybersecurity-7C3AED?style=for-the-badge&logoColor=white"/>
-
-</p>
-
-### HiCore Tech
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HiCore%20Tech-Cybersecurity%20%26%20Ethical%20Hacking-312E81?style=for-the-badge&logoColor=white"/>
-
-</p>
-
-### Programming
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Advanced%20Diploma-Python%20%7C%20C%20%7C%20C%2B%2B-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
-
-</p>
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-D99A7A?style=for-the-badge)
 
 ---
 
-## 💻 Coding Profiles
+## CODING PROFILES
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LEETCODE-PROFILE-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HACKERRANK-PROFILE-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CODECHEF-PROFILE-312E81?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GITHUB ANALYTICS
 
 <div align="center">
 
-<a href="https://github.com/">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIVASHANKAR-CODE&show_icons=true&theme=default&hide_border=true&bg_color=FFF7F2&title_color=C47A5A&icon_color=D99A7A&text_color=5C4033)
 
-<img src="https://github-readme-stats.vercel.app/api?username=SIVASHANKAR-CODEt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="49%"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=SIVASHANKAR-CODE&theme=default&hide_border=true&background=FFF7F2&ring=C47A5A&fire=D99A7A&currStreakLabel=C47A5A)
 
-</a>
-
-<a href="https://github.com/">
-
-<img src="https://streak-stats.demolab.com/?user=SIVASHANKAR-CODEt&hide_border=true&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" width="49%"/>
-
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIVASHANKAR-CODEt&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="45%"/>
-
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIVASHANKAR-CODE&layout=compact&theme=default&hide_border=true&bg_color=FFF7F2&title_color=C47A5A&text_color=5C4033)
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SIVASHANKAR-CODEt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="90%"/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SIVASHANKAR-CODE&theme=flat&no-frame=true&no-bg=true&margin-w=5&title_color=C47A5A)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIVASHANKAR-CODEt&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVASHANKAR-CODE&bg_color=FFF7F2&color=C47A5A&line=D99A7A&point=BE9B7B&area=true&hide_border=true)](https://github.com/SIVASHANKAR-CODE)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SIVASHANKAR-CODEt/SIVASHANKAR-CODEt/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ---
 
-## 🎮 Snake Game
-
-<div align="center">
-
-<a href="https://github.com/">
-
-<img src="https://img.shields.io/badge/🐍%20PLAY-SNAKE%20GAME-6D28D9?style=for-the-badge&labelColor=0D1117"/>
-
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PROJECT-SNAKE%20GAME-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-GAME%20LOGIC-312E81?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
+## CURRENT FOCUS
 
 ```yaml
 Learning:
-  - Software Engineering Fundamentals
-  - Cybersecurity
-  - Python
-  - C / C++
   - Networking
-  - AI & Prompt Engineering
+  - Linux
+  - Python
+  - Cybersecurity
+  - Cloud Security
+  - AWS
 
 Building:
-  - Secure Login Systems
-  - Phishing Email Detection
-  - Vulnerability Scanners
-  - Password Security Tools
-  - Snake Game
+  - Cybersecurity Projects
+  - Security Tools
+  - Practical Software Solutions
 
 Exploring:
-  - Artificial Intelligence
-  - Cybersecurity
-  - Software Development
-  - Game Development
-  - Hackathons
-  - Startup & Product Ideas
+  - OSINT
+  - Digital Forensics
+  - AI/ML
+  - Cloud Security
+  - CTFs
 
 Open To:
-  - Campus Ambassador Opportunities
-  - Software Engineering Opportunities
-  - Cybersecurity Projects
-  - AI Projects
+  - Collaborations
+  - Open Source
   - Hackathons
-  - Technical Collaborations
-  - Student Communities
+  - Cybersecurity Projects
+  - Learning Opportunities
