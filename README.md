@@ -184,10 +184,10 @@ Utility that evaluates password strength against common security criteria.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vrishinram&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vrishinram&theme=chartreuse-dark&hide_border=true&layout=compact"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SIVASHANKAR-CODE&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SIVASHANKAR-CODE&theme=tokyonight&hide_border=true&layout=compact"/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Vrishinram&theme=chartreuse-dark&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=SIVASHANKAR-CODE&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -197,7 +197,7 @@ Utility that evaluates password strength against common security criteria.
 
 <div align="center">
 
-[![Vrishin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vrishinram&theme=react-dark&bg_color=0d1117&color=00FF88&line=00FF88&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sivashankar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVASHANKAR-CODE&theme=tokyo-night&bg_color=0d1117&color=8A2BE2&line=6A0DAD&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -207,11 +207,24 @@ Utility that evaluates password strength against common security criteria.
 
 <div align="center">
 
-![Trophies](https://github-trophies.devomb.com/?username=Vrishinram&theme=matrix&no-frame=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SIVASHANKAR-CODE&theme=tokyonight&no-frame=true&margin-w=6&column=7)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIVASHANKAR-CODE/SIVASHANKAR-CODE/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIVASHANKAR-CODE/SIVASHANKAR-CODE/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SIVASHANKAR-CODE/SIVASHANKAR-CODE/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
 
 ## 🐍 Contribution Snake
 
