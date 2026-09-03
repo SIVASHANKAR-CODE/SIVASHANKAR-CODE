@@ -1,300 +1,242 @@
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B5CF6,100:00bfff&height=200&section=header&text=SIVASHANAR%20S&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Student%20%E2%80%A2%20Security%20Tooling%20%E2%80%A2%20Aspiring%20SOC%20Analyst&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sivashanar%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(Cybersecurity)%20%7C%20Aspiring%20Security%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%40+DSU;Building+Secure+Systems+%2B+Detection+Tools;Exploring+AI-Assisted+Security+Workflows;Open+to+Campus+Ambassador+Roles" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%94%90+B.Tech+CSE+(Cybersecurity)+%40+DSU;%F0%9F%9B%A0%EF%B8%8F+Building+Secure+Login%2C+Phishing+Detection+%26+Scanners;%F0%9F%A5%88+2nd+Prize+%E2%80%94+Technical+Event+2026;%E2%9C%A8+Top+Prompt+Creator+%E2%80%94+Google+Student+Ambassador+Program)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE%20(Cybersecurity)-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dhanalakshmi%20Srinivasan%20University-2025--2029-8B5CF6?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-A78BFA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivashankar-s-582744393/recent-activity/all/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SIVASHANKAR-CODEt)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivashankar021311@gmail.com)
+[![Phone](https://img.shields.io/badge/+91_9003859350-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919003859350)
 
-<br/><br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/sivashankar-s-582744393/recent-activity/all/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/SIVASHANKAR-CODEt"><img src="https://img.shields.io/badge/GitHub-Follow-1E1B4B?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="mailto:sivashankar021311@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-5B21B6?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="tel:+919003859350"><img src="https://img.shields.io/badge/Phone-%2B91%209003859350-7C3AED?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SIVASHANKAR-CODEt&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/SIVASHANKAR-CODEt?style=for-the-badge&color=6d28d9&label=FOLLOWERS&logo=github"/>
-<img src="https://img.shields.io/github/stars/SIVASHANKAR-CODEt?style=for-the-badge&color=8b5cf6&label=STARS&logo=github"/>
+![Profile Views](https://komarev.com/ghpvc/?username=SIVASHANKAR-CODEt&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧠 About Me
 
-I'm a second-year **B.Tech Computer Science & Engineering (Cybersecurity)** student at Dhanalakshmi Srinivasan University (2025–2029), currently building foundations in secure system design, network fundamentals, and applied Python/C/C++ development. My project work centers on practical security tooling — authentication systems, phishing detection, vulnerability scanning, and password auditing — as I move from coursework into hands-on engineering.
+```python
+class SivashanarS:
+    def __init__(self):
+        self.name = "Sivashanar S"
+        self.role = "Cybersecurity Student & Aspiring Security Engineer"
+        self.education = "B.Tech CSE (Cybersecurity) | Dhanalakshmi Srinivasan University | 2nd Year | 2025-2029"
+        self.location = "Tamil Nadu, India"
+        self.languages = ["Tamil", "English"]
+        self.building = [
+            "Secure Login System",
+            "Phishing Email Detection",
+            "Vulnerability Scanner",
+            "Password Strength Analyzer",
+        ]
+        self.focus = [
+            "Network fundamentals",
+            "Secure coding in Python / C / C++",
+            "Applied cybersecurity basics",
+            "AI-assisted workflows & prompt engineering",
+        ]
 
-Alongside the technical track, I've been active in student community programs, hackathons, and pitch events, and I'm particularly interested in how AI/prompt engineering tools can accelerate security research and workflow automation.
+    def current_mission(self):
+        return [
+            "Grow from coursework projects into a real security portfolio",
+            "Take part in more hackathons and CTFs",
+            "Land a Campus Ambassador or internship opportunity",
+        ]
+```
 
-**🎯 Open To:**
-- Campus Ambassador programs
-- Cybersecurity internships & mentorship
-- Hackathons & national-level tech competitions
-- Open-source collaboration in security tooling
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 🛡️ Core Domains
 
-## 🛠️ Tech Stack
+<div align="center">
 
-**Languages**
+| 🔐 Cybersecurity Basics | 🌐 Networking | 🧑‍💻 Programming |
+|---|---|---|
+| Login/auth security · Password analysis | Cisco Networking fundamentals | Python · C · C++ |
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp" />
+| 🎣 Detection Tooling | 🤖 AI / Prompt Engineering | 🗣️ Soft Skills |
+|---|---|---|
+| Phishing detection · Vulnerability scanning | Prompt engineering (upGrad certified) | Communication · Teamwork · Leadership · Presentation |
 
-**Cybersecurity & Networking**
+</div>
 
-<img src="https://img.shields.io/badge/Network%20Fundamentals-6D28D9?style=flat-square&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity%20Basics-8B5CF6?style=flat-square&logo=shieldsdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ethical%20Hacking-Fundamentals-A78BFA?style=flat-square&logo=hackthebox&logoColor=white"/>
-
-**Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-**Core Skills**
-
-<img src="https://img.shields.io/badge/Communication-4C1D95?style=flat-square"/>
-<img src="https://img.shields.io/badge/Teamwork-4C1D95?style=flat-square"/>
-<img src="https://img.shields.io/badge/Leadership-4C1D95?style=flat-square"/>
-<img src="https://img.shields.io/badge/Presentation-4C1D95?style=flat-square"/>
-
----
-
-## 🤖 AI & Prompt Engineering
-
-| Area | Notes |
-|---|---|
-| Prompt Engineering | Completed *Advanced Prompt Engineering with ChatGPT* (upGrad); recognized as **Top Prompt Creator**, Google Student Ambassador Program |
-| Applied Use | Using AI-assisted workflows to support learning, research, and security-tool prototyping |
-
-> *This section reflects certifications and recognitions actually earned — not a claimed proficiency scale.*
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>🔐 Secure Login System</b></summary>
-<br/>
+### 🔐 Secure Login System
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Authentication system built to explore secure credential handling and login-flow hardening practices.
+Authentication project exploring secure credential handling and login-flow hardening.
 
-| Aspect | Details |
-|---|---|
-| Stack | Python |
-| Focus | Authentication flow, credential handling |
-| Status | Academic / learning project |
-| Repository | [github.com/SIVASHANKAR-CODEt](https://github.com/SIVASHANKAR-CODEt) |
+<p align="left">
+  <a href="https://github.com/SIVASHANKAR-CODEt" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
 
-</details>
+---
 
-<details>
-<summary><b>🎣 Phishing Email Detection</b></summary>
-<br/>
+### 🎣 Phishing Email Detection
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Tool exploring detection heuristics for identifying phishing attempts in email content.
+Tool exploring heuristic/pattern-based detection of phishing attempts in email content.
 
-| Aspect | Details |
-|---|---|
-| Stack | Python |
-| Focus | Pattern/heuristic-based detection |
-| Status | Academic / learning project |
-| Repository | [github.com/SIVASHANKAR-CODEt](https://github.com/SIVASHANKAR-CODEt) |
+<p align="left">
+  <a href="https://github.com/SIVASHANKAR-CODEt" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
 
-</details>
+---
 
-<details>
-<summary><b>🛡️ Vulnerability Scanner</b></summary>
-<br/>
+### 🛡️ Vulnerability Scanner
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Scanner built to identify common vulnerabilities as part of applied cybersecurity coursework.
 
-| Aspect | Details |
-|---|---|
-| Stack | Python |
-| Focus | Vulnerability identification |
-| Status | Academic / learning project |
-| Repository | [github.com/SIVASHANKAR-CODEt](https://github.com/SIVASHANKAR-CODEt) |
+<p align="left">
+  <a href="https://github.com/SIVASHANKAR-CODEt" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
 
-</details>
+---
 
-<details>
-<summary><b>🔑 Password Strength Analyzer</b></summary>
-<br/>
+### 🔑 Password Strength Analyzer
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Utility that evaluates password strength against common security criteria.
 
-| Aspect | Details |
-|---|---|
-| Stack | Python |
-| Focus | Credential strength evaluation |
-| Status | Academic / learning project |
-| Repository | [github.com/SIVASHANKAR-CODEt](https://github.com/SIVASHANKAR-CODEt) |
+<p align="left">
+  <a href="https://github.com/SIVASHANKAR-CODEt" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
 
-</details>
+> *Link each project to its live repo as you push them — right now they point to your GitHub profile root.*
 
-> *Add live repo links, stack details, and screenshots as each project is pushed to GitHub.*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## 🎓 Academic Journey
-
-**B.Tech Computer Science & Engineering (Cybersecurity)**
-Dhanalakshmi Srinivasan University · 2025 – 2029 · Second Year
-
-Coursework and self-driven projects in networking fundamentals, secure system design, and applied programming (Python, C, C++), paired with active participation in hackathons, pitch events, and ambassador programs.
-
-`Coursework` `Independent Projects` `Hackathons` `Community Programs`
-
----
-
-## 🏆 Achievements
+## 🏆 Achievements & Awards
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🥈 2nd Prize | Technical Event — 2026 |
-| ⭐ Top Prompt Creator | Google Student Ambassador Program |
-| 🏁 Participant | National Level Hackathon — NEXUS'26 |
-| 🚀 Participant | Startup Pitch — IdeaVenture 2026 |
+| 🥇 | Achievement | Event | Date |
+|----|-------------|-------|------|
+| 🥈 | **2nd Prize** | Technical Event | 2026 |
+| ⭐ | **Top Prompt Creator** | Google Student Ambassador Program | — |
+| 🏁 | **Participant** | National Level Hackathon — NEXUS'26 | 2026 |
+| 🚀 | **Participant** | Startup Pitch — IdeaVenture 2026 | 2026 |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📜 Certifications
-
-**Cisco Networking Academy**
-
-<img src="https://img.shields.io/badge/Networking%20Basics-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-
-**upGrad**
-
-<img src="https://img.shields.io/badge/Advanced%20Prompt%20Engineering-ChatGPT-6D28D9?style=flat-square&logo=openai&logoColor=white"/>
-
-**Skill India Digital Hub**
-
-<img src="https://img.shields.io/badge/Cybersecurity-Skill%20India-FF9933?style=flat-square&logo=googlescholar&logoColor=white"/>
-
-**HiCore Tech**
-
-<img src="https://img.shields.io/badge/Cybersecurity%20%26%20Ethical%20Hacking-HiCore%20Tech-8B5CF6?style=flat-square&logo=hackthebox&logoColor=white"/>
-
-**Independent Study**
-
-<img src="https://img.shields.io/badge/Advanced%20Diploma-Python%2FC%2FC%2B%2B-A78BFA?style=flat-square&logo=python&logoColor=white"/>
-
----
-
-## 💻 Coding Profiles
+## 🎓 Certifications & Training
 
 <div align="center">
 
-*Add your handles below once profiles are set up — badges are placeholders:*
-
-<img src="https://img.shields.io/badge/LeetCode-Add%20Handle-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/GeeksforGeeks-Add%20Handle-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-Add%20Handle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeChef-Add%20Handle-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+![Networking Basics](https://img.shields.io/badge/Networking%20Basics-Cisco%20Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Advanced%20Prompt%20Engineering-upGrad-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Skill%20India%20Digital%20Hub-FF9933?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Cybersecurity%20%26%20Ethical%20Hacking-HiCore%20Tech-A78BFA?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Python Diploma](https://img.shields.io/badge/Advanced%20Diploma-Python%2FC%2FC%2B%2B-00bfff?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SIVASHANKAR-CODEt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SIVASHANKAR-CODEt&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+### 🖥️ Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIVASHANKAR-CODEt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
+### 🔐 Security & Networking
+![Cybersecurity Basics](https://img.shields.io/badge/Cybersecurity-Basics-8B5CF6?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+![Network Basics](https://img.shields.io/badge/Network-Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SIVASHANKAR-CODEt&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SIVASHANKAR-CODEt&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SIVASHANKAR-CODEt&theme=tokyonight&hide_border=true&layout=compact"/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=SIVASHANKAR-CODEt&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIVASHANKAR-CODEt&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVASHANKAR-CODEt&theme=react-dark&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-trophies.devomb.com/?username=SIVASHANKAR-CODEt&theme=matrix&no-frame=true&margin-w=6&column=7)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SIVASHANKAR-CODEt/SIVASHANKAR-CODEt/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIVASHANKAR-CODEt/SIVASHANKAR-CODEt/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIVASHANKAR-CODEt/SIVASHANKAR-CODEt/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SIVASHANKAR-CODEt/SIVASHANKAR-CODEt/output/github-snake-dark.svg"/>
+</picture>
+
+> *Requires the [Platane/snk](https://github.com/Platane/snk) GitHub Action set up on your `SIVASHANKAR-CODEt/SIVASHANKAR-CODEt` profile repo to render.*
 
 </div>
 
-> *Requires the [snake generator GitHub Action](https://github.com/Platane/snk) enabled on your profile repo.*
-
----
-
-## 🎯 Current Focus
-
-```yaml
-learning:
-  - Network security fundamentals
-  - Secure coding practices in Python/C/C++
-  - Applied cybersecurity concepts
-
-building:
-  - Security-focused tooling (login, scanning, detection)
-  - GitHub project portfolio
-
-exploring:
-  - AI-assisted security research
-  - Prompt engineering for technical workflows
-
-open_to:
-  - Campus Ambassador opportunities
-  - Cybersecurity internships
-  - Hackathons and national tech events
-```
-
----
-
-## 📬 Connect With Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-<a href="mailto:sivashankar021311@gmail.com"><img src="https://img.shields.io/badge/Gmail-sivashankar021311%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sivashankar-s-582744393/recent-activity/all/"><img src="https://img.shields.io/badge/LinkedIn-Sivashanar%20S-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/SIVASHANKAR-CODEt"><img src="https://img.shields.io/badge/GitHub-SIVASHANKAR--CODEt-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:8B5CF6,100:0d1117&height=120&section=footer&text=Learning+in+Public%2C+Building+Secure+Systems&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-</div>
+"Security is a process, not a product." — Bruce Schneier
 
----
+🗣️ **Languages:** Tamil · English &nbsp;|&nbsp; 📍 Tamil Nadu, India
 
-<div align="center">
-
-*"Security is built one careful decision at a time — I'm here to learn that craft."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=SIVASHANKAR-CODEt&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
