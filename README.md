@@ -184,10 +184,10 @@ Utility that evaluates password strength against common security criteria.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SIVASHANKAR-CODEt&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SIVASHANKAR-CODEt&theme=tokyonight&hide_border=true&layout=compact"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vrishinram&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vrishinram&theme=chartreuse-dark&hide_border=true&layout=compact"/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=SIVASHANKAR-CODEt&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=Vrishinram&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
@@ -197,7 +197,7 @@ Utility that evaluates password strength against common security criteria.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVASHANKAR-CODEt&theme=react-dark&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vrishin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vrishinram&theme=react-dark&bg_color=0d1117&color=00FF88&line=00FF88&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -207,7 +207,7 @@ Utility that evaluates password strength against common security criteria.
 
 <div align="center">
 
-![Trophies](https://github-trophies.devomb.com/?username=SIVASHANKAR-CODEt&theme=matrix&no-frame=true&margin-w=6&column=7)
+![Trophies](https://github-trophies.devomb.com/?username=Vrishinram&theme=matrix&no-frame=true&margin-w=6&column=7)
 
 </div>
 
@@ -218,13 +218,10 @@ Utility that evaluates password strength against common security criteria.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIVASHANKAR-CODEt/SIVASHANKAR-CODEt/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIVASHANKAR-CODEt/SIVASHANKAR-CODEt/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SIVASHANKAR-CODEt/SIVASHANKAR-CODEt/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vrishinram/Vrishin-Ram/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vrishinram/Vrishin-Ram/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Vrishinram/Vrishin-Ram/output/github-snake-dark.svg"/>
 </picture>
-
-> *Requires the [Platane/snk](https://github.com/Platane/snk) GitHub Action set up on your `SIVASHANKAR-CODEt/SIVASHANKAR-CODEt` profile repo to render.*
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
