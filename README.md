@@ -28,7 +28,7 @@
 ## 🧠 About Me
 
 ```python
-class SivashanarS:
+class SivashankarS:
     def __init__(self):
         self.name = "Sivashanar S"
         self.role = "Cybersecurity Student & Aspiring Security Engineer"
