@@ -30,7 +30,7 @@
 ```python
 class SivashankarS:
     def __init__(self):
-        self.name = "Sivashanar S"
+        self.name = "Sivashankar S"
         self.role = "Cybersecurity Student & Aspiring Security Engineer"
         self.education = "B.Tech CSE (Cybersecurity) | Dhanalakshmi Srinivasan University | 2nd Year | 2025-2029"
         self.location = "Tamil Nadu, India"
