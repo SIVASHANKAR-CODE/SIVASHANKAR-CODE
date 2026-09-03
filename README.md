@@ -1,7 +1,6 @@
  # SIVASHANKAR S
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDAB9,50:FFE4C4,100:F5C6AA&height=180&section=header&text=SIVASHANKAR%20S&fontSize=48&fontColor=5C4033&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C47A5A&center=true&vCenter=true&width=650&lines=Network+Basics;Cybersecurity+Enthusiast;Future+Cloud+Security+Engineer;Building+Secure+and+Practical+Solutions)](https://git.io/typing-svg)
@@ -20,6 +19,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SIVASHANKAR-CODE&style=flat-square&color=C47A5A)
 ![Followers](https://img.shields.io/github/followers/SIVASHANKAR-CODE?style=flat-square&color=D99A7A)
 ![Stars](https://img.shields.io/github/stars/SIVASHANKAR-CODE?style=flat-square&color=BE9B7B)
+
 
 </div>
 
