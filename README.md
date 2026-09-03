@@ -2,24 +2,24 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SIVASHANKAR%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDAB9,50:FFE4C4,100:F5C6AA&height=180&section=header&text=SIVASHANKAR%20S&fontSize=48&fontColor=5C4033&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Network+Basics;Cybersecurity+Enthusiast;Future+Cloud+Security+Engineer;Building+Secure+and+Practical+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C47A5A&center=true&vCenter=true&width=650&lines=Network+Basics;Cybersecurity+Enthusiast;Future+Cloud+Security+Engineer;Building+Secure+and+Practical+Solutions)](https://git.io/typing-svg)
 
-![B.Tech](https://img.shields.io/badge/B.Tech-CSE%20%7C%20Cybersecurity-8B5CF6?style=flat-square)
-![2025-2029](https://img.shields.io/badge/2025--2029-6366F1?style=flat-square)
-![DSU](https://img.shields.io/badge/DSU-Dhanalakshmi%20Srinivasan%20University-7C3AED?style=flat-square)
+![B.Tech](https://img.shields.io/badge/B.Tech-CSE%20%7C%20Cybersecurity-C47A5A?style=flat-square)
+![2025-2029](https://img.shields.io/badge/2025--2029-D99A7A?style=flat-square)
+![DSU](https://img.shields.io/badge/DSU-Dhanalakshmi%20Srinivasan%20University-BE9B7B?style=flat-square)
 
-![Location](https://img.shields.io/badge/📍%20Tamil%20Nadu%2C%20India-4C1D95?style=flat-square)
+![Location](https://img.shields.io/badge/📍%20Tamil%20Nadu%2C%20India-E8B4A0?style=flat-square)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SIVASHANKAR-CODE)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivashankar2184@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SIVASHANKAR-CODE)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-C47A5A?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SIVASHANKAR-CODE)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-D99A7A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/EMAIL-BE9B7B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivashankar2184@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-8B6F5C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SIVASHANKAR-CODE)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SIVASHANKAR-CODE&style=flat-square&color=8B5CF6)
-![Followers](https://img.shields.io/github/followers/SIVASHANKAR-CODE?style=flat-square&color=6366F1)
-![Stars](https://img.shields.io/github/stars/SIVASHANKAR-CODE?style=flat-square&color=7C3AED)
+![Profile Views](https://komarev.com/ghpvc/?username=SIVASHANKAR-CODE&style=flat-square&color=C47A5A)
+![Followers](https://img.shields.io/github/followers/SIVASHANKAR-CODE?style=flat-square&color=D99A7A)
+![Stars](https://img.shields.io/github/stars/SIVASHANKAR-CODE?style=flat-square&color=BE9B7B)
 
 </div>
 
