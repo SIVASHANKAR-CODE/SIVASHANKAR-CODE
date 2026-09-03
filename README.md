@@ -193,38 +193,6 @@ Utility that evaluates password strength against common security criteria.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Sivashankar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIVASHANKAR-CODE&theme=tokyo-night&bg_color=0d1117&color=8A2BE2&line=6A0DAD&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SIVASHANKAR-CODE&theme=tokyonight&no-frame=true&margin-w=6&column=7)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIVASHANKAR-CODE/SIVASHANKAR-CODE/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIVASHANKAR-CODE/SIVASHANKAR-CODE/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SIVASHANKAR-CODE/SIVASHANKAR-CODE/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
 
 ## 🐍 Contribution Snake
 
