@@ -15,9 +15,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivashankar021311@gmail.com)
 [![Phone](https://img.shields.io/badge/+91_9003859350-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919003859350)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SIVASHANKAR-CODEt&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -215,6 +212,3 @@ Utility that evaluates password strength against common security criteria.
 
 🗣️ **Languages:** Tamil · English &nbsp;|&nbsp; 📍 Tamil Nadu, India
 
-![Profile Views](https://komarev.com/ghpvc/?username=SIVASHANKAR-CODEt&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
