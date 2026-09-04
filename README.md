@@ -190,6 +190,27 @@ Utility that evaluates password strength against common security criteria.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Sivashankar's Activity Graph](https://activity-graph.vercel.app/graph?username=SIVASHANKAR-CODE&theme=react-dark&bg_color=0d1117&color=00FF88&line=00FF88&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Sivashankar's GitHub Trophies](https://github-trophies.devomb.com/?username=SIVASHANKAR-CODE&theme=matrix&no-frame=true&margin-w=6&column=7)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 ## 🐍 Contribution Snake
 
 <div align="center">
